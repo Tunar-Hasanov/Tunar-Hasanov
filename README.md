@@ -1,4 +1,4 @@
-<h2 align="left">I'm Nodejs mongodb developer and other...</h2>
+<h2 align="left">I'm Nodejs mongodb developer and more...</h2>
 
 ###
 <img align="right" height="150" src="https://camo.githubusercontent.com/1f6b092f216bb3d020104e58371cdb4ce2529983ead4ad51aa23bd459b201a06/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66332f62382f36332f66336238363333656633366266306235303835633564306636303230633931392e676966"  />
