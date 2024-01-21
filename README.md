@@ -27,6 +27,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="30" alt="ngnix logo" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="sql logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
 ###
