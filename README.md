@@ -1,11 +1,10 @@
 <h2 align="left">Hi 👋! My name is Tunar and I'm a Nodejs mongodb developer, from Azerbaijan</h2>
 
-###
 <img align="right" height="150" src="https://camo.githubusercontent.com/1f6b092f216bb3d020104e58371cdb4ce2529983ead4ad51aa23bd459b201a06/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66332f62382f36332f66336238363333656633366266306235303835633564306636303230633931392e676966"  />
-<div align="center">
+
+<div align="center" style="margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tunar-Hasanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
 ###
 
 ###
